@@ -1,0 +1,15 @@
+body {
+    /* This means 100% the width/height of your machine */
+    width: 100vw;
+    height: 100vh;
+    background-color: aliceblue;
+    /* These three are used to center the children elements right in the middle */
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+/* Centers the text content */
+div {
+    text-align: center;
+}
